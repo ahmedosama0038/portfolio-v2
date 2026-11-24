@@ -134,7 +134,7 @@ export const contact = {
   email: 'ah.osama303@gmail.com',
   phone: '+20 102 124 5010',
   github: 'https://github.com/ahmedosama0038',
-  linkedin: 'https://www.linkedin.com/in/ahmed-osama',
+  linkedin: 'https://www.linkedin.com/in/ahmed-osama-6642a9397/',
   whatsapp: 'https://wa.me/201021245010',
   instagram: 'https://www.instagram.com/__a7med__72',
   cv,
